@@ -1,3 +1,3 @@
 # HystrixSpringDemo
-## Study Hystrix with Spring
+## Study Hystrix with Spring,Study it
  
